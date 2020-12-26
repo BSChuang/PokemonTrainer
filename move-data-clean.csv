@@ -1,0 +1,729 @@
+Name,Type,Category,Contest,PP,Power,Accuracy
+Pound,Normal,Physical,Tough,35,40,100
+Karate Chop,Fighting,Physical,Tough,25,50,100
+Double Slap,Normal,Physical,Cute,10,15,85
+Comet Punch,Normal,Physical,Tough,15,18,85
+Mega Punch,Normal,Physical,Tough,20,80,85
+Pay Day,Normal,Physical,Clever,20,40,100
+Fire Punch,Fire,Physical,Tough,15,75,100
+Ice Punch,Ice,Physical,Beautiful,15,75,100
+Thunder Punch,Electric,Physical,Cool,15,75,100
+Scratch,Normal,Physical,Tough,35,40,100
+Vice Grip,Normal,Physical,Tough,30,55,100
+Guillotine,Normal,Physical,Cool,5,None,None
+Razor Wind,Normal,Special,Cool,10,80,None
+Swords Dance,Normal,Status,Beautiful,20,None,None
+Cut,Normal,Physical,Cool,30,50,95
+Gust,Flying,Special,Clever,35,40,100
+Wing Attack,Flying,Physical,Cool,35,60,100
+Whirlwind,Normal,Status,Clever,20,None,None
+Fly,Flying,Physical,Clever,15,90,95
+Bind,Normal,Physical,Tough,20,15,None
+Slam,Normal,Physical,Tough,20,80,75
+Vine Whip,Grass,Physical,Cool,25,45,100
+Stomp,Normal,Physical,Tough,20,65,100
+Double Kick,Fighting,Physical,Cool,30,30,100
+Mega Kick,Normal,Physical,Cool,5,120,75
+Jump Kick,Fighting,Physical,Cool,10,100,95
+Rolling Kick,Fighting,Physical,Cool,15,60,85
+Sand Attack,Ground,Status,Cute,15,None,100
+Headbutt,Normal,Physical,Tough,15,70,100
+Horn Attack,Normal,Physical,Cool,25,65,100
+Fury Attack,Normal,Physical,Cool,20,15,85
+Horn Drill,Normal,Physical,Cool,5,None,None
+Tackle,Normal,Physical,Tough,35,40,None
+Body Slam,Normal,Physical,Tough,15,85,100
+Wrap,Normal,Physical,Tough,20,15,None
+Take Down,Normal,Physical,Tough,20,90,85
+Thrash,Normal,Physical,Tough,10,120,100
+Double-Edge,Normal,Physical,Tough,15,120,100
+Tail Whip,Normal,Status,Cute,30,None,100
+Poison Sting,Poison,Physical,Clever,35,15,100
+Twineedle,Bug,Physical,Cool,20,25,100
+Pin Missile,Bug,Physical,Cool,20,25,None
+Leer,Normal,Status,Cool,30,None,100
+Bite,Dark,Physical,Tough,25,60,100
+Growl,Normal,Status,Cute,40,None,100
+Roar,Normal,Status,Cool,20,None,None
+Sing,Normal,Status,Cute,15,None,55
+Supersonic,Normal,Status,Clever,20,None,55
+Sonic Boom,Normal,Special,Cool,20,None,90
+Disable,Normal,Status,Clever,20,None,None
+Acid,Poison,Special,Clever,30,40,100
+Ember,Fire,Special,Cute,25,40,100
+Flamethrower,Fire,Special,Beautiful,15,90,100
+Mist,Ice,Status,Beautiful,30,None,None
+Water Gun,Water,Special,Cute,25,40,100
+Hydro Pump,Water,Special,Beautiful,5,110,80
+Surf,Water,Special,Beautiful,15,90,100
+Ice Beam,Ice,Special,Beautiful,10,90,100
+Blizzard,Ice,Special,Beautiful,5,110,None
+Psybeam,Psychic,Special,Beautiful,20,65,100
+Bubble Beam,Water,Special,Beautiful,20,65,100
+Aurora Beam,Ice,Special,Beautiful,20,65,100
+Hyper Beam,Normal,Special,Cool,5,150,90
+Peck,Flying,Physical,Cool,35,35,100
+Drill Peck,Flying,Physical,Cool,20,80,100
+Submission,Fighting,Physical,Cool,20,80,80
+Low Kick,Fighting,Physical,Tough,20,None,None
+Counter,Fighting,Physical,Tough,20,None,100
+Seismic Toss,Fighting,Physical,Tough,20,None,100
+Strength,Normal,Physical,Tough,15,80,100
+Absorb,Grass,Special,Clever,25,20,100
+Mega Drain,Grass,Special,Clever,15,40,100
+Leech Seed,Grass,Status,Clever,10,None,90
+Growth,Normal,Status,Beautiful,20,None,None
+Razor Leaf,Grass,Physical,Cool,25,55,95
+Solar Beam,Grass,Special,Cool,10,120,100
+Poison Powder,Poison,Status,Clever,35,None,75
+Stun Spore,Grass,Status,Clever,30,None,75
+Sleep Powder,Grass,Status,Clever,15,None,75
+Petal Dance,Grass,Special,Beautiful,10,120,100
+String Shot,Bug,Status,Clever,40,None,95
+Dragon Rage,Dragon,Special,Cool,10,None,100
+Fire Spin,Fire,Special,Beautiful,15,35,None
+Thunder Shock,Electric,Special,Cool,30,40,100
+Thunderbolt,Electric,Special,Cool,15,90,100
+Thunder Wave,Electric,Status,Cool,20,None,None
+Thunder,Electric,Special,Cool,10,110,70
+Rock Throw,Rock,Physical,Tough,15,50,None
+Earthquake,Ground,Physical,Tough,10,100,100
+Fissure,Ground,Physical,Tough,5,None,None
+Dig,Ground,Physical,Tough,10,80,100
+Toxic,Poison,Status,Clever,10,None,None
+Confusion,Psychic,Special,Clever,25,50,100
+Psychic,Psychic,Special,Clever,10,90,100
+Hypnosis,Psychic,Status,Clever,20,None,None
+Meditate,Psychic,Status,Beautiful,40,None,None
+Agility,Psychic,Status,Cool,30,None,None
+Quick Attack,Normal,Physical,Cool,30,40,100
+Rage,Normal,Physical,Tough,20,20,100
+Teleport,Psychic,Status,Cool,20,None,None
+Night Shade,Ghost,Special,Clever,15,None,100
+Mimic,Normal,Status,Cute,10,None,None
+Screech,Normal,Status,Clever,40,None,85
+Double Team,Normal,Status,Cool,15,None,None
+Recover,Normal,Status,Clever,10,None,None
+Harden,Normal,Status,Tough,30,None,None
+Minimize,Normal,Status,Cute,10,None,None
+Smokescreen,Normal,Status,Clever,20,None,100
+Confuse Ray,Ghost,Status,Clever,10,None,100
+Withdraw,Water,Status,Cute,40,None,None
+Defense Curl,Normal,Status,Cute,40,None,None
+Barrier,Psychic,Status,Cool,20,None,None
+Light Screen,Psychic,Status,Beautiful,30,None,None
+Haze,Ice,Status,Beautiful,30,None,None
+Reflect,Psychic,Status,Clever,20,None,None
+Focus Energy,Normal,Status,Cool,30,None,None
+Bide,Normal,Physical,Tough,10,None,None
+Metronome,Normal,Status,Cute,10,None,None
+Mirror Move,Flying,Status,Clever,20,None,None
+Self-Destruct,Normal,Physical,Beautiful,5,200,100
+Egg Bomb,Normal,Physical,Cute,10,100,75
+Lick,Ghost,Physical,Cute,30,30,100
+Smog,Poison,Special,Tough,20,30,70
+Sludge,Poison,Special,Tough,20,65,100
+Bone Club,Ground,Physical,Tough,20,65,85
+Fire Blast,Fire,Special,Beautiful,5,110,85
+Waterfall,Water,Physical,Tough,15,80,100
+Clamp,Water,Physical,Tough,15,35,None
+Swift,Normal,Special,Cool,20,60,None
+Skull Bash,Normal,Physical,Tough,10,130,100
+Spike Cannon,Normal,Physical,Cool,15,20,100
+Constrict,Normal,Physical,Tough,35,10,100
+Amnesia,Psychic,Status,Cute,20,None,None
+Kinesis,Psychic,Status,Clever,15,None,80
+Soft-Boiled,Normal,Status,Cute,10,None,None
+High Jump Kick,Fighting,Physical,Cool,10,130,90
+Glare,Normal,Status,Tough,30,None,None
+Dream Eater,Psychic,Special,Clever,15,100,100
+Poison Gas,Poison,Status,Clever,40,None,None
+Barrage,Normal,Physical,Cute,20,15,85
+Leech Life,Bug,Physical,Clever,10,80,100
+Lovely Kiss,Normal,Status,Beautiful,10,None,75
+Sky Attack,Flying,Physical,Cool,5,140,90
+Transform,Normal,Status,Clever,10,None,None
+Bubble,Water,Special,Cute,30,40,100
+Dizzy Punch,Normal,Physical,Cute,10,70,100
+Spore,Grass,Status,Beautiful,15,None,100
+Flash,Normal,Status,Beautiful,20,None,None
+Psywave,Psychic,Special,Clever,15,None,None
+Splash,Normal,Status,Cute,40,None,None
+Acid Armor,Poison,Status,Tough,20,None,None
+Crabhammer,Water,Physical,Tough,10,100,None
+Explosion,Normal,Physical,Beautiful,5,250,100
+Fury Swipes,Normal,Physical,Tough,15,18,80
+Bonemerang,Ground,Physical,Tough,10,50,90
+Rest,Psychic,Status,Cute,10,None,None
+Rock Slide,Rock,Physical,Tough,10,75,90
+Hyper Fang,Normal,Physical,Cool,15,80,90
+Sharpen,Normal,Status,Cute,30,None,None
+Conversion,Normal,Status,Beautiful,30,None,None
+Tri Attack,Normal,Special,Beautiful,10,80,100
+Super Fang,Normal,Physical,Tough,10,None,90
+Slash,Normal,Physical,Cool,20,70,100
+Substitute,Normal,Status,Cute,10,None,None
+Struggle,Normal,Physical,Tough,1,50,None
+Sketch,Normal,Status,Clever,1,None,None
+Triple Kick,Fighting,Physical,Cool,10,10,90
+Thief,Dark,Physical,Tough,25,60,100
+Spider Web,Bug,Status,Clever,10,None,None
+Mind Reader,Normal,Status,Clever,5,None,None
+Nightmare,Ghost,Status,Clever,15,None,100
+Flame Wheel,Fire,Physical,Beautiful,25,60,100
+Snore,Normal,Special,Cute,15,50,100
+Curse,Ghost,Status,Tough,10,None,None
+Flail,Normal,Physical,Cute,15,None,100
+Conversion 2,Normal,Status,Beautiful,30,None,None
+Aeroblast,Flying,Special,Cool,5,100,95
+Cotton Spore,Grass,Status,Beautiful,40,None,None
+Reversal,Fighting,Physical,Cool,15,None,100
+Spite,Ghost,Status,Tough,10,None,100
+Powder Snow,Ice,Special,Beautiful,25,40,100
+Protect,Normal,Status,Cute,10,None,None
+Mach Punch,Fighting,Physical,Cool,30,40,100
+Scary Face,Normal,Status,Tough,10,None,None
+Feint Attack,Dark,Physical,Clever,20,60,None
+Sweet Kiss,Fairy,Status,Cute,10,None,75
+Belly Drum,Normal,Status,Cute,10,None,None
+Sludge Bomb,Poison,Special,Tough,10,90,100
+Mud-Slap,Ground,Special,Cute,10,20,100
+Octazooka,Water,Special,Tough,10,65,85
+Spikes,Ground,Status,Clever,20,None,None
+Zap Cannon,Electric,Special,Cool,5,120,50
+Foresight,Normal,Status,Clever,40,None,None
+Destiny Bond,Ghost,Status,Clever,5,None,None
+Perish Song,Normal,Status,Beautiful,5,None,None
+Icy Wind,Ice,Special,Beautiful,15,55,95
+Detect,Fighting,Status,Cool,5,None,None
+Bone Rush,Ground,Physical,Tough,10,25,None
+Lock-On,Normal,Status,Clever,5,None,None
+Outrage,Dragon,Physical,Cool,10,120,100
+Sandstorm,Rock,Status,Tough,10,None,None
+Giga Drain,Grass,Special,Clever,10,75,100
+Endure,Normal,Status,Tough,10,None,None
+Charm,Fairy,Status,Cute,20,None,100
+Rollout,Rock,Physical,Cute,20,30,90
+False Swipe,Normal,Physical,Cool,40,40,100
+Swagger,Normal,Status,Cute,15,None,None
+Milk Drink,Normal,Status,Cute,10,None,None
+Spark,Electric,Physical,Cool,20,65,100
+Fury Cutter,Bug,Physical,Cool,20,40,95
+Steel Wing,Steel,Physical,Cool,25,70,90
+Mean Look,Normal,Status,Beautiful,5,None,None
+Attract,Normal,Status,Cute,15,None,100
+Sleep Talk,Normal,Status,Cute,10,None,None
+Heal Bell,Normal,Status,Beautiful,5,None,None
+Return,Normal,Physical,Cute,20,None,100
+Present,Normal,Physical,Cute,15,None,90
+Frustration,Normal,Physical,Cute,20,None,100
+Safeguard,Normal,Status,Beautiful,25,None,None
+Pain Split,Normal,Status,Clever,20,None,None
+Sacred Fire,Fire,Physical,Beautiful,5,100,95
+Magnitude,Ground,Physical,Tough,30,None,100
+Dynamic Punch,Fighting,Physical,Cool,5,100,50
+Megahorn,Bug,Physical,Cool,10,120,85
+Dragon Breath,Dragon,Special,Cool,20,60,100
+Baton Pass,Normal,Status,Cute,40,None,None
+Encore,Normal,Status,Cute,5,None,100
+Pursuit,Dark,Physical,Clever,20,40,100
+Rapid Spin,Normal,Physical,Cool,40,20,100
+Sweet Scent,Normal,Status,Cute,20,None,100
+Iron Tail,Steel,Physical,Cool,15,100,75
+Metal Claw,Steel,Physical,Cool,35,50,95
+Vital Throw,Fighting,Physical,Cool,10,70,None
+Morning Sun,Normal,Status,Beautiful,5,None,None
+Synthesis,Grass,Status,Clever,5,None,None
+Moonlight,Fairy,Status,Beautiful,5,None,None
+Hidden Power,Normal,Special,Clever,15,60,100
+Cross Chop,Fighting,Physical,Cool,5,100,80
+Twister,Dragon,Special,Cool,20,40,100
+Rain Dance,Water,Status,Beautiful,5,None,None
+Sunny Day,Fire,Status,Beautiful,5,None,None
+Crunch,Dark,Physical,Tough,15,80,100
+Mirror Coat,Psychic,Special,Beautiful,20,None,100
+Psych Up,Normal,Status,Clever,10,None,None
+Extreme Speed,Normal,Physical,Cool,5,80,100
+Ancient Power,Rock,Special,Tough,5,60,100
+Shadow Ball,Ghost,Special,Clever,15,80,100
+Future Sight,Psychic,Special,Clever,10,120,None
+Rock Smash,Fighting,Physical,Tough,15,40,100
+Whirlpool,Water,Special,Beautiful,15,35,None
+Beat Up,Dark,Physical,Clever,10,None,100
+Fake Out,Normal,Physical,Cute,10,40,100
+Uproar,Normal,Special,Cute,10,90,100
+Stockpile,Normal,Status,Tough,20,None,None
+Spit Up,Normal,Special,Tough,10,None,100
+Swallow,Normal,Status,Tough,10,None,None
+Heat Wave,Fire,Special,Beautiful,10,95,90
+Hail,Ice,Status,Beautiful,10,None,None
+Torment,Dark,Status,Tough,15,None,100
+Flatter,Dark,Status,Clever,15,None,100
+Will-O-Wisp,Fire,Status,Beautiful,15,None,None
+Memento,Dark,Status,Tough,10,None,100
+Facade,Normal,Physical,Cute,20,70,100
+Focus Punch,Fighting,Physical,Tough,20,150,100
+Smelling Salts,Normal,Physical,Tough,10,70,100
+Follow Me,Normal,Status,Cute,20,None,None
+Nature Power,Normal,Status,Beautiful,20,None,None
+Charge,Electric,Status,Clever,20,None,None
+Taunt,Dark,Status,Clever,20,None,100
+Helping Hand,Normal,Status,Clever,20,None,None
+Trick,Psychic,Status,Clever,10,None,100
+Role Play,Psychic,Status,Cute,10,None,None
+Wish,Normal,Status,Cute,10,None,None
+Assist,Normal,Status,Cute,20,None,None
+Ingrain,Grass,Status,Clever,20,None,None
+Superpower,Fighting,Physical,Tough,5,120,100
+Magic Coat,Psychic,Status,Beautiful,15,None,None
+Recycle,Normal,Status,Clever,10,None,None
+Revenge,Fighting,Physical,Tough,10,60,100
+Brick Break,Fighting,Physical,Cool,15,75,100
+Yawn,Normal,Status,Cute,10,None,None
+Knock Off,Dark,Physical,Clever,20,65,100
+Endeavor,Normal,Physical,Tough,5,None,100
+Eruption,Fire,Special,Beautiful,5,150,100
+Skill Swap,Psychic,Status,Clever,10,None,None
+Imprison,Psychic,Status,Clever,10,None,None
+Refresh,Normal,Status,Cute,20,None,None
+Grudge,Ghost,Status,Tough,5,None,None
+Snatch,Dark,Status,Clever,10,None,None
+Secret Power,Normal,Physical,Clever,20,70,100
+Dive,Water,Physical,Beautiful,10,80,100
+Arm Thrust,Fighting,Physical,Tough,20,15,100
+Camouflage,Normal,Status,Clever,20,None,None
+Tail Glow,Bug,Status,Beautiful,20,None,None
+Luster Purge,Psychic,Special,Clever,5,70,100
+Mist Ball,Psychic,Special,Clever,5,70,100
+Feather Dance,Flying,Status,Beautiful,15,None,100
+Teeter Dance,Normal,Status,Cute,20,None,100
+Blaze Kick,Fire,Physical,Cool,10,85,90
+Mud Sport,Ground,Status,Cute,15,None,None
+Ice Ball,Ice,Physical,Beautiful,20,30,90
+Needle Arm,Grass,Physical,Clever,15,60,100
+Slack Off,Normal,Status,Cute,10,None,None
+Hyper Voice,Normal,Special,Cool,10,90,100
+Poison Fang,Poison,Physical,Clever,15,50,100
+Crush Claw,Normal,Physical,Cool,10,75,95
+Blast Burn,Fire,Special,Beautiful,5,150,90
+Hydro Cannon,Water,Special,Beautiful,5,150,90
+Meteor Mash,Steel,Physical,Cool,10,90,None
+Astonish,Ghost,Physical,Cute,15,30,100
+Weather Ball,Normal,Special,Beautiful,10,50,100
+Aromatherapy,Grass,Status,Clever,5,None,None
+Fake Tears,Dark,Status,Cute,20,None,100
+Air Cutter,Flying,Special,Cool,25,60,95
+Overheat,Fire,Special,Beautiful,5,130,90
+Odor Sleuth,Normal,Status,Clever,40,None,None
+Rock Tomb,Rock,Physical,Clever,15,60,None
+Silver Wind,Bug,Special,Beautiful,5,60,100
+Metal Sound,Steel,Status,Clever,40,None,85
+Grass Whistle,Grass,Status,Clever,15,None,55
+Tickle,Normal,Status,Cute,20,None,100
+Cosmic Power,Psychic,Status,Beautiful,20,None,None
+Water Spout,Water,Special,Beautiful,5,150,100
+Signal Beam,Bug,Special,Beautiful,15,75,100
+Shadow Punch,Ghost,Physical,Clever,20,60,None
+Extrasensory,Psychic,Special,Cool,20,80,100
+Sky Uppercut,Fighting,Physical,Cool,15,85,90
+Sand Tomb,Ground,Physical,Clever,15,35,None
+Sheer Cold,Ice,Special,Beautiful,5,None,None
+Muddy Water,Water,Special,Tough,10,90,85
+Bullet Seed,Grass,Physical,Cool,30,25,100
+Aerial Ace,Flying,Physical,Cool,20,60,None
+Icicle Spear,Ice,Physical,Beautiful,30,25,100
+Iron Defense,Steel,Status,Tough,15,None,None
+Block,Normal,Status,Cute,5,None,None
+Howl,Normal,Status,Cool,40,None,None
+Dragon Claw,Dragon,Physical,Cool,15,80,100
+Frenzy Plant,Grass,Special,Cool,5,150,90
+Bulk Up,Fighting,Status,Cool,20,None,None
+Bounce,Flying,Physical,Cute,5,85,85
+Mud Shot,Ground,Special,Tough,15,55,95
+Poison Tail,Poison,Physical,Clever,25,50,100
+Covet,Normal,Physical,Cute,25,60,100
+Volt Tackle,Electric,Physical,Cool,15,120,100
+Magical Leaf,Grass,Special,Beautiful,20,60,None
+Water Sport,Water,Status,Cute,15,None,None
+Calm Mind,Psychic,Status,Clever,20,None,None
+Leaf Blade,Grass,Physical,Cool,15,90,100
+Dragon Dance,Dragon,Status,Cool,20,None,None
+Rock Blast,Rock,Physical,Tough,10,25,None
+Shock Wave,Electric,Special,Cool,20,60,None
+Water Pulse,Water,Special,Beautiful,20,60,100
+Doom Desire,Steel,Special,Beautiful,5,140,None
+Psycho Boost,Psychic,Special,Clever,5,140,90
+Roost,Flying,Status,Clever,10,None,None
+Gravity,Psychic,Status,Clever,5,None,None
+Miracle Eye,Psychic,Status,Clever,40,None,None
+Wake-Up Slap,Fighting,Physical,Tough,10,70,100
+Hammer Arm,Fighting,Physical,Tough,10,100,90
+Gyro Ball,Steel,Physical,Cool,5,None,100
+Healing Wish,Psychic,Status,Beautiful,10,None,None
+Brine,Water,Special,Tough,10,65,100
+Natural Gift,Normal,Physical,Clever,15,None,100
+Feint,Normal,Physical,Clever,10,30,100
+Pluck,Flying,Physical,Cute,20,60,100
+Tailwind,Flying,Status,Cool,15,None,None
+Acupressure,Normal,Status,Tough,30,None,None
+Metal Burst,Steel,Physical,Cool,10,None,100
+U-turn,Bug,Physical,Cute,20,70,100
+Close Combat,Fighting,Physical,Tough,5,120,100
+Payback,Dark,Physical,Tough,10,50,100
+Assurance,Dark,Physical,Clever,10,60,100
+Embargo,Dark,Status,Clever,15,None,100
+Fling,Dark,Physical,Cute,10,None,100
+Psycho Shift,Psychic,Status,Clever,10,None,None
+Trump Card,Normal,Special,Cool,5,None,None
+Heal Block,Psychic,Status,Clever,15,None,100
+Wring Out,Normal,Special,Tough,5,None,100
+Power Trick,Psychic,Status,Clever,10,None,None
+Gastro Acid,Poison,Status,Tough,10,None,100
+Lucky Chant,Normal,Status,Cute,30,None,None
+Me First,Normal,Status,Clever,20,None,None
+Copycat,Normal,Status,Cute,20,None,None
+Power Swap,Psychic,Status,Clever,10,None,None
+Guard Swap,Psychic,Status,Clever,10,None,None
+Punishment,Dark,Physical,Cool,5,None,100
+Last Resort,Normal,Physical,Cute,5,140,100
+Worry Seed,Grass,Status,Clever,10,None,100
+Sucker Punch,Dark,Physical,Clever,5,70,100
+Toxic Spikes,Poison,Status,Clever,20,None,None
+Heart Swap,Psychic,Status,Clever,10,None,None
+Aqua Ring,Water,Status,Beautiful,20,None,None
+Magnet Rise,Electric,Status,Clever,10,None,None
+Flare Blitz,Fire,Physical,Cool,15,120,100
+Force Palm,Fighting,Physical,Cool,10,60,100
+Aura Sphere,Fighting,Special,Beautiful,20,80,None
+Rock Polish,Rock,Status,Tough,20,None,None
+Poison Jab,Poison,Physical,Tough,20,80,100
+Dark Pulse,Dark,Special,Cool,15,80,100
+Night Slash,Dark,Physical,Cool,15,70,100
+Aqua Tail,Water,Physical,Beautiful,10,90,90
+Seed Bomb,Grass,Physical,Tough,15,80,100
+Air Slash,Flying,Special,Cool,15,75,95
+X-Scissor,Bug,Physical,Cool,15,80,100
+Bug Buzz,Bug,Special,Beautiful,10,90,100
+Dragon Pulse,Dragon,Special,Beautiful,10,85,100
+Dragon Rush,Dragon,Physical,Tough,10,100,75
+Power Gem,Rock,Special,Beautiful,20,80,100
+Drain Punch,Fighting,Physical,Tough,10,75,100
+Vacuum Wave,Fighting,Special,Cool,30,40,100
+Focus Blast,Fighting,Special,Cool,5,120,70
+Energy Ball,Grass,Special,Beautiful,10,90,100
+Brave Bird,Flying,Physical,Cool,15,120,100
+Earth Power,Ground,Special,Beautiful,10,90,100
+Switcheroo,Dark,Status,Clever,10,None,100
+Giga Impact,Normal,Physical,Tough,5,150,90
+Nasty Plot,Dark,Status,Clever,20,None,None
+Bullet Punch,Steel,Physical,Tough,30,40,100
+Avalanche,Ice,Physical,Beautiful,10,60,100
+Ice Shard,Ice,Physical,Beautiful,30,40,100
+Shadow Claw,Ghost,Physical,Cool,15,70,100
+Thunder Fang,Electric,Physical,Cool,15,65,95
+Ice Fang,Ice,Physical,Cool,15,65,95
+Fire Fang,Fire,Physical,Cool,15,65,95
+Shadow Sneak,Ghost,Physical,Clever,30,40,100
+Mud Bomb,Ground,Special,Cute,10,65,85
+Psycho Cut,Psychic,Physical,Cool,20,70,100
+Zen Headbutt,Psychic,Physical,Clever,15,80,90
+Mirror Shot,Steel,Special,Beautiful,10,65,85
+Flash Cannon,Steel,Special,Beautiful,10,80,100
+Rock Climb,Normal,Physical,Tough,20,90,85
+Defog,Flying,Status,Cool,15,None,None
+Trick Room,Psychic,Status,Clever,5,None,None
+Draco Meteor,Dragon,Special,Beautiful,5,130,90
+Discharge,Electric,Special,Beautiful,15,80,100
+Lava Plume,Fire,Special,Tough,15,80,100
+Leaf Storm,Grass,Special,Beautiful,5,130,90
+Power Whip,Grass,Physical,Tough,10,120,85
+Rock Wrecker,Rock,Physical,Tough,5,150,90
+Cross Poison,Poison,Physical,Cool,20,70,100
+Gunk Shot,Poison,Physical,Tough,5,120,None
+Iron Head,Steel,Physical,Tough,15,80,100
+Magnet Bomb,Steel,Physical,Cool,20,60,None
+Stone Edge,Rock,Physical,Tough,5,100,80
+Captivate,Normal,Status,Cute,20,None,100
+Stealth Rock,Rock,Status,Cool,20,None,None
+Grass Knot,Grass,Special,Cute,20,None,100
+Chatter,Flying,Special,Cute,20,65,100
+Judgment,Normal,Special,Beautiful,10,100,100
+Bug Bite,Bug,Physical,Cute,20,60,100
+Charge Beam,Electric,Special,Beautiful,10,50,90
+Wood Hammer,Grass,Physical,Tough,15,120,100
+Aqua Jet,Water,Physical,Cool,20,40,100
+Attack Order,Bug,Physical,Clever,15,90,100
+Defend Order,Bug,Status,Clever,10,None,None
+Heal Order,Bug,Status,Clever,10,None,None
+Head Smash,Rock,Physical,Tough,5,150,80
+Double Hit,Normal,Physical,Cool,10,35,90
+Roar of Time,Dragon,Special,Beautiful,5,150,90
+Spacial Rend,Dragon,Special,Beautiful,5,100,95
+Lunar Dance,Psychic,Status,Beautiful,10,None,None
+Crush Grip,Normal,Physical,Tough,5,None,100
+Magma Storm,Fire,Special,Tough,5,100,None
+Dark Void,Dark,Status,Clever,10,None,None
+Seed Flare,Grass,Special,Beautiful,5,120,85
+Ominous Wind,Ghost,Special,Beautiful,5,60,100
+Shadow Force,Ghost,Physical,Cool,5,120,100
+Hone Claws,Dark,Status,Cute,15,None,None
+Wide Guard,Rock,Status,Tough,10,None,None
+Guard Split,Psychic,Status,Clever,10,None,None
+Power Split,Psychic,Status,Clever,10,None,None
+Wonder Room,Psychic,Status,Clever,10,None,None
+Psyshock,Psychic,Special,Beautiful,10,80,100
+Venoshock,Poison,Special,Beautiful,10,65,100
+Autotomize,Steel,Status,Beautiful,15,None,None
+Rage Powder,Bug,Status,Clever,20,None,None
+Telekinesis,Psychic,Status,Clever,15,None,None
+Magic Room,Psychic,Status,Clever,10,None,None
+Smack Down,Rock,Physical,Tough,15,50,100
+Storm Throw,Fighting,Physical,Cool,10,60,100
+Flame Burst,Fire,Special,Beautiful,15,70,100
+Sludge Wave,Poison,Special,Tough,10,95,100
+Quiver Dance,Bug,Status,Beautiful,20,None,None
+Heavy Slam,Steel,Physical,Tough,10,None,100
+Synchronoise,Psychic,Special,Clever,10,120,100
+Electro Ball,Electric,Special,Cool,10,None,100
+Soak,Water,Status,Cute,20,None,100
+Flame Charge,Fire,Physical,Cool,20,50,100
+Coil,Poison,Status,Tough,20,None,None
+Low Sweep,Fighting,Physical,Clever,20,65,100
+Acid Spray,Poison,Special,Beautiful,20,40,100
+Foul Play,Dark,Physical,Clever,15,95,100
+Simple Beam,Normal,Status,Cute,15,None,100
+Entrainment,Normal,Status,Cute,15,None,100
+After You,Normal,Status,Cute,15,None,None
+Round,Normal,Special,Beautiful,15,60,100
+Echoed Voice,Normal,Special,Beautiful,15,40,100
+Chip Away,Normal,Physical,Tough,20,70,100
+Clear Smog,Poison,Special,Beautiful,15,50,None
+Stored Power,Psychic,Special,Clever,10,20,100
+Quick Guard,Fighting,Status,Cool,15,None,None
+Ally Switch,Psychic,Status,Clever,15,None,None
+Scald,Water,Special,Tough,15,80,100
+Shell Smash,Normal,Status,Tough,15,None,None
+Heal Pulse,Psychic,Status,Beautiful,10,None,None
+Hex,Ghost,Special,Clever,10,65,100
+Sky Drop,Flying,Physical,Tough,10,60,100
+Shift Gear,Steel,Status,Clever,10,None,None
+Circle Throw,Fighting,Physical,Cool,10,60,90
+Incinerate,Fire,Special,Tough,15,60,100
+Quash,Dark,Status,Clever,15,None,100
+Acrobatics,Flying,Physical,Cool,15,55,100
+Reflect Type,Normal,Status,Clever,15,None,None
+Retaliate,Normal,Physical,Cool,5,70,100
+Final Gambit,Fighting,Special,Tough,5,None,100
+Bestow,Normal,Status,Cute,15,None,None
+Inferno,Fire,Special,Beautiful,5,100,50
+Water Pledge,Water,Special,Beautiful,10,80,100
+Fire Pledge,Fire,Special,Beautiful,10,80,100
+Grass Pledge,Grass,Special,Beautiful,10,80,100
+Volt Switch,Electric,Special,Cool,20,70,100
+Struggle Bug,Bug,Special,Cute,20,50,100
+Bulldoze,Ground,Physical,Tough,20,60,100
+Frost Breath,Ice,Special,Beautiful,10,60,90
+Dragon Tail,Dragon,Physical,Tough,10,60,90
+Work Up,Normal,Status,Tough,30,None,None
+Electroweb,Electric,Special,Beautiful,15,55,95
+Wild Charge,Electric,Physical,Tough,15,90,100
+Drill Run,Ground,Physical,Tough,10,80,95
+Dual Chop,Dragon,Physical,Tough,15,40,90
+Heart Stamp,Psychic,Physical,Cute,25,60,100
+Horn Leech,Grass,Physical,Tough,10,75,100
+Sacred Sword,Fighting,Physical,Cool,15,90,100
+Razor Shell,Water,Physical,Cool,10,75,95
+Heat Crash,Fire,Physical,Tough,10,None,100
+Leaf Tornado,Grass,Special,Cool,10,65,90
+Steamroller,Bug,Physical,Tough,20,65,100
+Cotton Guard,Grass,Status,Cute,10,None,None
+Night Daze,Dark,Special,Cool,10,85,95
+Psystrike,Psychic,Special,Cool,10,100,100
+Tail Slap,Normal,Physical,Cute,10,25,85
+Hurricane,Flying,Special,Tough,10,110,70
+Head Charge,Normal,Physical,Tough,15,120,100
+Gear Grind,Steel,Physical,Clever,15,50,85
+Searing Shot,Fire,Special,Cool,5,100,100
+Techno Blast,Normal,Special,Cool,5,120,100
+Relic Song,Normal,Special,Beautiful,10,75,100
+Secret Sword,Fighting,Special,Beautiful,10,85,100
+Glaciate,Ice,Special,Beautiful,10,65,95
+Bolt Strike,Electric,Physical,Beautiful,5,130,85
+Blue Flare,Fire,Special,Beautiful,5,130,85
+Fiery Dance,Fire,Special,Beautiful,10,80,100
+Freeze Shock,Ice,Physical,Beautiful,5,140,90
+Ice Burn,Ice,Special,Beautiful,5,140,90
+Snarl,Dark,Special,Tough,15,55,95
+Icicle Crash,Ice,Physical,Beautiful,10,85,90
+V-create,Fire,Physical,Cool,5,180,95
+Fusion Flare,Fire,Special,Beautiful,5,100,100
+Fusion Bolt,Electric,Physical,Cool,5,100,100
+Flying Press,Fighting,Physical,Tough,10,100,95
+Mat Block,Fighting,Status,Cool,10,None,None
+Belch,Poison,Special,Tough,10,120,90
+Rototiller,Ground,Status,Tough,10,None,None
+Sticky Web,Bug,Status,Tough,20,None,None
+Fell Stinger,Bug,Physical,Cool,25,50,100
+Phantom Force,Ghost,Physical,Cool,10,90,100
+Trick-or-Treat,Ghost,Status,Cute,20,None,100
+Noble Roar,Normal,Status,Tough,30,None,100
+Ion Deluge,Electric,Status,Beautiful,25,None,None
+Parabolic Charge,Electric,Special,Clever,20,65,100
+Forest's Curse,Grass,Status,Clever,20,None,100
+Petal Blizzard,Grass,Physical,Beautiful,15,90,100
+Freeze-Dry,Ice,Special,Beautiful,20,70,100
+Disarming Voice,Fairy,Special,Cute,15,40,None
+Parting Shot,Dark,Status,Cool,20,None,100
+Topsy-Turvy,Dark,Status,Clever,20,None,None
+Draining Kiss,Fairy,Special,Cute,10,50,100
+Crafty Shield,Fairy,Status,Clever,10,None,None
+Flower Shield,Fairy,Status,Beautiful,10,None,None
+Grassy Terrain,Grass,Status,Beautiful,10,None,None
+Misty Terrain,Fairy,Status,Beautiful,10,None,None
+Electrify,Electric,Status,Clever,20,None,None
+Play Rough,Fairy,Physical,Cute,10,90,90
+Fairy Wind,Fairy,Special,Beautiful,30,40,100
+Moonblast,Fairy,Special,Beautiful,15,95,100
+Boomburst,Normal,Special,Tough,10,140,100
+Fairy Lock,Fairy,Status,Clever,10,None,None
+King's Shield,Steel,Status,Cool,10,None,None
+Play Nice,Normal,Status,Cute,20,None,None
+Confide,Normal,Status,Cute,20,None,None
+Diamond Storm,Rock,Physical,Beautiful,5,100,95
+Steam Eruption,Water,Special,Beautiful,5,110,95
+Hyperspace Hole,Psychic,Special,Clever,5,80,None
+Water Shuriken,Water,Special,Cool,20,15,100
+Mystical Fire,Fire,Special,Beautiful,10,75,100
+Spiky Shield,Grass,Status,Tough,10,None,None
+Aromatic Mist,Fairy,Status,Beautiful,20,None,None
+Eerie Impulse,Electric,Status,Clever,15,None,100
+Venom Drench,Poison,Status,Clever,20,None,100
+Powder,Bug,Status,Clever,20,None,100
+Geomancy,Fairy,Status,Beautiful,10,None,None
+Magnetic Flux,Electric,Status,Clever,20,None,None
+Happy Hour,Normal,Status,Cute,30,None,None
+Electric Terrain,Electric,Status,Clever,10,None,None
+Dazzling Gleam,Fairy,Special,Beautiful,10,80,100
+Celebrate,Normal,Status,Cute,40,None,None
+Hold Hands,Normal,Status,Cute,40,None,None
+Baby-Doll Eyes,Fairy,Status,Cute,30,None,100
+Nuzzle,Electric,Physical,Cute,20,20,100
+Hold Back,Normal,Physical,Cool,40,40,100
+Infestation,Bug,Special,Cute,20,20,100
+Power-Up Punch,Fighting,Physical,Tough,20,40,100
+Oblivion Wing,Flying,Special,Cool,10,80,100
+Thousand Arrows,Ground,Physical,Beautiful,10,90,100
+Thousand Waves,Ground,Physical,Tough,10,90,100
+Land's Wrath,Ground,Physical,Beautiful,10,90,100
+Light of Ruin,Fairy,Special,Beautiful,5,140,90
+Origin Pulse,Water,Special,Beautiful,10,110,85
+Precipice Blades,Ground,Physical,Cool,10,120,85
+Dragon Ascent,Flying,Physical,Beautiful,5,120,100
+Hyperspace Fury,Dark,Physical,Tough,5,100,None
+Breakneck Blitz,Normal,Physical,???,1,None,None
+Breakneck Blitz,Normal,Special,???,1,None,None
+All-Out Pummeling,Fighting,Physical,???,1,None,None
+All-Out Pummeling,Fighting,Special,???,1,None,None
+Supersonic Skystrike,Flying,Physical,???,1,None,None
+Supersonic Skystrike,Flying,Special,???,1,None,None
+Acid Downpour,Poison,Physical,???,1,None,None
+Acid Downpour,Poison,Special,???,1,None,None
+Tectonic Rage,Ground,Physical,???,1,None,None
+Tectonic Rage,Ground,Special,???,1,None,None
+Continental Crush,Rock,Physical,???,1,None,None
+Continental Crush,Rock,Special,???,1,None,None
+Savage Spin-Out,Bug,Physical,???,1,None,None
+Savage Spin-Out,Bug,Special,???,1,None,None
+Never-Ending Nightmare,Ghost,Physical,???,1,None,None
+Never-Ending Nightmare,Ghost,Special,???,1,None,None
+Corkscrew Crash,Steel,Physical,???,1,None,None
+Corkscrew Crash,Steel,Special,???,1,None,None
+Inferno Overdrive,Fire,Physical,???,1,None,None
+Inferno Overdrive,Fire,Special,???,1,None,None
+Hydro Vortex,Water,Physical,???,1,None,None
+Hydro Vortex,Water,Special,???,1,None,None
+Bloom Doom,Grass,Physical,???,1,None,None
+Bloom Doom,Grass,Special,???,1,None,None
+Gigavolt Havoc,Electric,Physical,???,1,None,None
+Gigavolt Havoc,Electric,Special,???,1,None,None
+Shattered Psyche,Psychic,Physical,???,1,None,None
+Shattered Psyche,Psychic,Special,???,1,None,None
+Subzero Slammer,Ice,Physical,???,1,None,None
+Subzero Slammer,Ice,Special,???,1,None,None
+Devastating Drake,Dragon,Physical,???,1,None,None
+Devastating Drake,Dragon,Special,???,1,None,None
+Black Hole Eclipse,Dark,Physical,???,1,None,None
+Black Hole Eclipse,Dark,Special,???,1,None,None
+Twinkle Tackle,Fairy,Physical,???,1,None,None
+Twinkle Tackle,Fairy,Special,???,1,None,None
+Catastropika,Electric,Physical,???,1,210,None
+Shore Up,Ground,Status,???,10,None,None
+First Impression,Bug,Physical,???,10,90,100
+Baneful Bunker,Poison,Status,???,10,None,None
+Spirit Shackle,Ghost,Physical,???,10,80,100
+Darkest Lariat,Dark,Physical,???,10,85,100
+Sparkling Aria,Water,Special,???,10,90,100
+Ice Hammer,Ice,Physical,???,10,100,90
+Floral Healing,Fairy,Status,???,10,None,None
+High Horsepower,Ground,Physical,???,10,95,95
+Strength Sap,Grass,Status,???,10,None,100
+Solar Blade,Grass,Physical,???,10,125,100
+Leafage,Grass,Physical,???,40,40,100
+Spotlight,Normal,Status,???,15,None,None
+Toxic Thread,Poison,Status,???,20,None,100
+Laser Focus,Normal,Status,???,30,None,None
+Gear Up,Steel,Status,???,20,None,None
+Throat Chop,Dark,Physical,???,15,80,100
+Pollen Puff,Bug,Special,???,15,90,100
+Anchor Shot,Steel,Physical,???,20,80,100
+Psychic Terrain,Psychic,Status,???,10,None,None
+Lunge,Bug,Physical,???,15,80,100
+Fire Lash,Fire,Physical,???,15,80,100
+Power Trip,Dark,Physical,???,10,20,100
+Burn Up,Fire,Special,???,5,130,100
+Speed Swap,Psychic,Status,???,10,None,None
+Smart Strike,Steel,Physical,???,10,70,None
+Purify,Poison,Status,???,20,None,None
+Revelation Dance,Normal,Special,???,15,90,100
+Core Enforcer,Dragon,Special,???,10,100,100
+Trop Kick,Grass,Physical,???,15,70,100
+Instruct,Psychic,Status,???,15,None,None
+Beak Blast,Flying,Physical,???,15,100,100
+Clanging Scales,Dragon,Special,???,5,110,100
+Dragon Hammer,Dragon,Physical,???,15,90,100
+Brutal Swing,Dark,Physical,???,20,60,100
+Aurora Veil,Ice,Status,???,20,None,None
+Sinister Arrow Raid,Ghost,Physical,???,1,180,None
+Malicious Moonsault,Dark,Physical,???,1,180,None
+Oceanic Operetta,Water,Special,???,1,195,None
+Guardian of Alola,Fairy,Special,???,1,None,None
+Soul-Stealing 7-Star Strike,Ghost,Physical,???,1,195,None
+Stoked Sparksurfer,Electric,Special,???,1,175,None
+Pulverizing Pancake,Normal,Physical,???,1,210,None
+Extreme Evoboost,Normal,Status,???,1,None,None
+Genesis Supernova,Psychic,Special,???,1,185,None
+Shell Trap,Fire,Special,???,5,150,100
+Fleur Cannon,Fairy,Special,???,5,130,90
+Psychic Fangs,Psychic,Physical,???,10,85,100
+Stomping Tantrum,Ground,Physical,???,10,75,100
+Shadow Bone,Ghost,Physical,???,10,85,100
+Accelerock,Rock,Physical,???,20,40,100
+Liquidation,Water,Physical,???,10,85,100
+Prismatic Laser,Psychic,Special,???,10,160,100
+Spectral Thief,Ghost,Physical,???,10,90,100
+Sunsteel Strike,Steel,Physical,???,5,100,100
+Moongeist Beam,Ghost,Special,???,5,100,100
+Tearful Look,Normal,Status,???,20,None,None
+Zing Zap,Electric,Physical,???,10,80,100
+Nature's Madness,Fairy,Special,???,10,None,90
+Multi-Attack,Normal,Physical,???,10,90,100
+"10,000,000 Volt Thunderbolt",Electric,Special,???,1,195,None
+Mind Blown,Fire,Special,???,5,150,100
+Plasma Fists,Electric,Physical,???,15,100,100
+Photon Geyser,Psychic,Special,???,5,100,100
+Light That Burns the Sky,Psychic,Special,???,1,200,None
+Searing Sunraze Smash,Steel,Special,???,1,200,None
+Menacing Moonraze Maelstrom,Ghost,Special,???,1,200,None
+Let's Snuggle Forever,Fairy,Physical,???,1,190,None
+Splintered Stormshards,Rock,Physical,???,1,190,None
+Clangorous Soulblaze,Dragon,Special,???,1,185,None
